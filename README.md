@@ -1,12 +1,12 @@
 # Vue 3 + TypeScript + Vite + Arco Design Vue
 
 ## 技术栈
-> vue3
-> TypeScript
-> vite
-> Arco Design Vue
-> Vue Router
-> Pinge
+* vue3
+* TypeScript
+* vite
+* Arco Design Vue
+* Vue Router
+* Pinia VUE新一代状态管理，替代VUEX 
 
 ~~~
 npm init vite@latest
